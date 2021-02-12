@@ -1,0 +1,2 @@
+# gitdersleri
+linux
